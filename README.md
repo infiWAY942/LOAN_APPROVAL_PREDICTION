@@ -3,9 +3,10 @@
 An end-to-end Machine Learning and Explainable AI (XAI) web application built using Python, Scikit-Learn, XGBoost, SHAP, and Streamlit to predict loan approvals and transparently explain the reasoning behind every decision based on applicant financial profiles and credit history.
 
 ---
-STUDENT INFO:
-NAME:NILOY KUUMAR BARMAN
-SUBJ CODE:PCCAIML 502
+### 👤 Student Info
+* **Name:** Niloy Kumar Barman
+* **Subject Code:** PCCAIML 502
+*
 
 
 ## 🚀 Project Overview
