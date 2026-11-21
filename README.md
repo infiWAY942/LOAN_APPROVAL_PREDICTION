@@ -3,6 +3,10 @@
 An end-to-end Machine Learning and Explainable AI (XAI) web application built using Python, Scikit-Learn, XGBoost, SHAP, and Streamlit to predict loan approvals and transparently explain the reasoning behind every decision based on applicant financial profiles and credit history.
 
 ---
+STUDENT INFO:
+NAME:NILOY KUUMAR BARMAN
+SUBJ CODE:PCCAIML 502
+
 
 ## 🚀 Project Overview
 
@@ -56,8 +60,14 @@ Three classification algorithms were evaluated using Accuracy, Precision, Recall
 ## ⚙️ Instructions for Execution
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git](https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git)
-   cd LOAN_APPROVAL_PREDICTION
-pip install streamlit pandas numpy scikit-learn xgboost shap matplotlib seaborn
-streamlit run app.py
+
+    git clone [https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git](https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git)
+    cd LOAN_APPROVAL_PREDICTION
+
+2. **Install dependencies:**
+
+    pip install streamlit pandas numpy scikit-learn xgboost shap matplotlib seaborn
+
+3. **Run the Streamlit web application:**
+
+    streamlit run app.py
