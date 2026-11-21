@@ -59,8 +59,5 @@ Three classification algorithms were evaluated using Accuracy, Precision, Recall
    ```bash
    git clone [https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git](https://github.com/infiWAY942/LOAN_APPROVAL_PREDICTION.git)
    cd LOAN_APPROVAL_PREDICTION
-2.Install dependencies:
 pip install streamlit pandas numpy scikit-learn xgboost shap matplotlib seaborn
-3.Run the streamlit web application :
 streamlit run app.py
-
